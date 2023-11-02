@@ -1,2 +1,2 @@
 # SpringSecurityJWTDemo
-JWT Authentication for Springboot 3.0 Template
+JWT Authentication for Springboot 3.0 using Spring Security Template
